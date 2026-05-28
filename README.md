@@ -35,11 +35,17 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 * **Jouer au jeu :** 👉[page Itch.io](https://darkyzer.itch.io/dusck-balance)
 * **Image :** <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/06f72439-1bc1-4367-b570-92d5fe321414" />
 
+### 🕹️ [Réminescences](https://github.com/ProtaisBelhomme/Unijam2024True)
+* **Description :** Un jeu narratif créé pour l'Unijam 2024 sur le thème "Avenir".
+* **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), Codeur des dialogues
+* **Technos :** Unreal Engine 5, Blueprint
+* **Jouer au jeu :** 👉[page Itch.io bien détaillée](https://lumostale.itch.io/reminiscences)
+
 ### 🕹️ [Je t'attaon en 5208](https://github.com/ValT78/INTGJ)
-* **Description :** Un escapeg game créé pour l'INT Game Jam 2024 sur le thème "Jouer avec le temps".
-* **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), Codeur sur le déplacement des objets
+* **Description :** Un escape game créé pour l'INT Game Jam 2024 sur le thème "Jouer avec le temps".
+* **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), Codeur du déplacement des objets
 * **Technos :** Unity, C#
-* **Jouer au jeu :** 👉[page Itch.io](https://valt7.itch.io/taon5208)
+* **Jouer au jeu :** 👉[page Itch.io](https://lumostale.itch.io/reminiscences)
 * **Image :** <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e47fb37c-9f62-4b32-8409-4cd789d38bd3" />
 
 
