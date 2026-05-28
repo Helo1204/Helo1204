@@ -27,7 +27,7 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 ## 🎮 Jeux Vidéo (Game Jams)
 *Projets réalisés en temps limité (souvent 48h), mettant l'accent sur la créativité et le prototypage rapide.*
 
-### 🕹️ [Dusck Balance](https://darkyzer.itch.io/dusck-balance)
+### 🕹️ [Dusck Balance](https://github.com/DarkYzer/INT-Game-Jam-2026)
 * **Description :** Un jeu d'équilibre créé pour l'INT Game Jam 2026 sur le thème "Equinoxe".
 * **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), Réglages de la physique (balance), Ajout des assets et de leurs components créés par notre modélisateur 3D
 * **Technos :** Unity, C#
