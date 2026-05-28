@@ -1,5 +1,10 @@
-## Hi there 👋
+## 🛠️ Contributions & Projets Collaboratifs
 
+* **[AttackTower](https://github.com/Sophie-2023/AttackTower)** - Jeu vidéo en C++ de type Reverse Tower Defense (gestion d'armée attaquant des zones fortifiées).
+  * *Mon rôle :* Conception de l'architecture Orientée Objet (héritage et polymorphisme pour les structures de défense et les types de champs). Implémentation du système de chargement dynamique de la carte via le parsing de fichiers XML. Développement de la logique globale et du cycle de vie du jeu (game loop, conditions de victoire/défaite et gestion du temps imparti).
+  * *Technos :* C++ (POO), SFML, pugixml (parsing XML), CMake, Git.
+ 
+  
 <!--
 **Helo1204/Helo1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
