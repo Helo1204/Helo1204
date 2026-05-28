@@ -4,17 +4,6 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 
 ---
 
-## 🎮 Jeux Vidéo (Game Jams)
-*Projets réalisés en temps limité (souvent 48h ou 72h), mettant l'accent sur la créativité et le prototypage rapide.*
-
-### 🕹️ [Nom du Jeu 1](Lien_GitHub_ou_Itch.io)
-* **Description :** Un jeu de [Genre] créé pour la [Nom de la Jam] sur le thème "[Thème]".
-* **Mon rôle :** [Ex: Codeur principal, gestion de la physique, des contrôles...]
-* **Technos :** [Ex: Unity, C#, Godot, C++...]
-* **Jouer au jeu :** 👉 [Mon profil Itch.io](Lien_Itch_io) *(Si le lien principal est GitHub)*
-
----
-
 ## 🎓 Projets Académiques (Jeux Vidéo)
 *Projets d'envergure réalisés en équipe dans le cadre de mes études.*
 
@@ -32,3 +21,23 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 * **Description :** Une application de [But de l'appli : gestion de stock, réseau social, etc.] réalisée en projet d'école pour [Nom du cours / contexte].
 * **Mon rôle :** Développement de la partie [Back-end/Front-end/Full-stack], conception de la base de données et implémentation des fonctionnalités clés.
 * **Technos :** [Ex: Python, Java, React, SQL, Docker...]
+
+---
+
+## 🎮 Jeux Vidéo (Game Jams)
+*Projets réalisés en temps limité (souvent 48h ou 72h), mettant l'accent sur la créativité et le prototypage rapide.*
+
+### 🕹️ [Dusck Balance](https://darkyzer.itch.io/dusck-balance)
+* **Description :** Un jeu d'action créé pour l'INT Game Jam 2026 sur le thème "Equinoxe".
+* **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), Réglages de la physique (balance), Ajout des assets et de leurs components créés par notre modélisateur 3D
+* **Technos :** Unity, C#
+* **Platform:**  Jeu disponible sur pc 💻 et téléphone 📱 (version web et download sur le lien itch)
+* **Jouer au jeu :** 👉[page Itch.io](https://darkyzer.itch.io/dusck-balance)
+* **Image :** <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/06f72439-1bc1-4367-b570-92d5fe321414" />
+
+
+### 🕹️ [ Psychose à Gare du Nord](https://github.com/Helo1204/Paranoia)
+* **Description :** Un jeu d'action créé pour l'INT Game Jam 2025 sur le thème "dualité".
+* **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), codeur, ajout des animations
+* **Technos :** Unity, C#
+* **Jouer au jeu :** 👉 [page Itch.io](https://monryy.itch.io/psychose-gare-du-nord)
