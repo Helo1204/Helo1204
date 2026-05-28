@@ -25,15 +25,22 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 ---
 
 ## 🎮 Jeux Vidéo (Game Jams)
-*Projets réalisés en temps limité (souvent 48h ou 72h), mettant l'accent sur la créativité et le prototypage rapide.*
+*Projets réalisés en temps limité (souvent 48h), mettant l'accent sur la créativité et le prototypage rapide.*
 
 ### 🕹️ [Dusck Balance](https://darkyzer.itch.io/dusck-balance)
-* **Description :** Un jeu d'action créé pour l'INT Game Jam 2026 sur le thème "Equinoxe".
+* **Description :** Un jeu d'équilibre créé pour l'INT Game Jam 2026 sur le thème "Equinoxe".
 * **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), Réglages de la physique (balance), Ajout des assets et de leurs components créés par notre modélisateur 3D
 * **Technos :** Unity, C#
-* **Platform:**  Jeu disponible sur pc 💻 et téléphone 📱 (version web et download sur le lien itch)
+* **Platform:**  Jeu disponible sur pc 💻 et téléphone 📱
 * **Jouer au jeu :** 👉[page Itch.io](https://darkyzer.itch.io/dusck-balance)
 * **Image :** <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/06f72439-1bc1-4367-b570-92d5fe321414" />
+
+### 🕹️ [Je t'attaon en 5208](https://github.com/ValT78/INTGJ)
+* **Description :** Un escapeg game créé pour l'INT Game Jam 2024 sur le thème "Jouer avec le temps".
+* **Mon rôle :**  Coordinateur de projet 📋 (Suivi des avancées et cohésion d'équipe), Codeur sur le déplacement des objets
+* **Technos :** Unity, C#
+* **Jouer au jeu :** 👉[page Itch.io](https://valt7.itch.io/taon5208)
+* **Image :** <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e47fb37c-9f62-4b32-8409-4cd789d38bd3" />
 
 
 ### 🕹️ [ Psychose à Gare du Nord](https://github.com/Helo1204/Paranoia)
