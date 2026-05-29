@@ -14,6 +14,12 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 * **Image :**
   <img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/df37762c-f846-445e-aa74-5b567a246b97" />
 
+### 🌾 [Eco Frenzy](https://github.com/Helo1204/YASC)
+* **Description :** Jeu vidéo  coopératif et éco-responsable en 3D.
+* **Mon rôle :** Chef de projet, Développeuse Économie & Équilibrage (Boucle de production de monnaie, gestion du score écologique et calibration selon le nombre de joueurs)
+* **Technos :** Unreal Engine 5,  blueprint.
+* **Image :**
+<img width="1918" height="1077" alt="image" src="https://github.com/user-attachments/assets/3892c414-d9b9-4462-bc06-24195e0b30c7" />
 
 ---
 
