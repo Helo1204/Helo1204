@@ -20,10 +20,15 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 ## 💻 Logiciels & Applications Web/Mobile
 *Autres projets techniques et applicatifs réalisés durant mon parcours.*
 
-### 📱 [Nom de l'Application](Lien_du_Projet_si_Public)
-* **Description :** Une application de [But de l'appli : gestion de stock, réseau social, etc.] réalisée en projet d'école pour [Nom du cours / contexte].
-* **Mon rôle :** Développement de la partie [Back-end/Front-end/Full-stack], conception de la base de données et implémentation des fonctionnalités clés.
-* **Technos :** [Ex: Python, Java, React, SQL, Docker...]
+### 📱 [Flora Guide](Lien_du_Projet_si_Public)
+* **Description :** Une application mobile de reconnaissance de plantes réalisée en projet d'école pour la méthode Agile à BTH (Suède).
+* **Mon rôle :** Développement de la partie Back-end,implémentation de l'utilisation des api externes.
+* **Technos :** ASP.NET, PostgreSQL, .NET MAUI
+* **Images :**
+<img width="248" height="539" alt="image" src="https://github.com/user-attachments/assets/fb2162a4-9231-4175-b529-4f51ce17c4f1" />
+<img width="248" height="539" alt="image" src="https://github.com/user-attachments/assets/55787ae7-a194-48cb-976f-106917dde511" />
+
+
 
 ---
 
