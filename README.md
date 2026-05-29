@@ -11,6 +11,9 @@ Voici un aperçu des différents projets que j'ai développés, qu'il s'agisse d
 * **Description :** Jeu vidéo en C++ de type *Reverse Tower Defense* (gestion d'armée d'animaux révoltés attaquant des champs fortifiés).
 * **Mon rôle :** Conception de l'architecture POO (héritage et polymorphisme pour les défenses et les champs). Implémentation du système de chargement dynamique de la carte via le parsing de fichiers XML. Développement de la logique globale et du cycle de vie du jeu (conditions de victoire/défaite, gestion du temps).
 * **Technos :** C++, SFML, pugixml, CMake, Git.
+* **Image :**
+  <img width="1282" height="752" alt="image" src="https://github.com/user-attachments/assets/df37762c-f846-445e-aa74-5b567a246b97" />
+
 
 ---
 
